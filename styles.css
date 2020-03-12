@@ -1,0 +1,18 @@
+
+#firstP {
+    color: red;
+    background-color: cornflowerblue;
+    align: center;
+}
+#secondP {
+    color: green;
+}
+#UofI {
+    font-size: 18px;
+}
+.class {
+    text-align: center;
+}
+p {
+    text-align: left;
+}
